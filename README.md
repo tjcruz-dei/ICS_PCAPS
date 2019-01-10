@@ -1,5 +1,5 @@
 # ICS_PCAPS
-ICS Cybersecurity PCAPS
+ICS Cybersecurity PCAP repository
 
 This repository includes a series of PCAP captures generated for cybersecurity research purposes. Each capture set is stored as a release, namely:
 
@@ -16,4 +16,8 @@ This repository will be continuously updated with new traces, as our research ef
 ## LICENSE
 
 The content of this repository itself is licensed under the Creative Commons Attribution 3.0 Unported license, and the underlying source code used to format and display that content is licensed under the MIT license.
+
+## CREDITS
+
+These captures were undertaken and provided by a team at the University of Coimbra (Portugal), working under the auspices of the ATENA H2020 project.
 
