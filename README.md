@@ -3,7 +3,7 @@ ICS Cybersecurity PCAP repository
 
 This repository includes a series of PCAP captures generated for cybersecurity research purposes. Each capture set is provided as a release, namely:
 
-* `modbus TCP SCADA #1` - the entire dataset of network trace captures for paper [1]
+* [`modbus TCP SCADA #1`](https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231) - the entire dataset of network trace captures for paper [1]
 
 This repository will be continuously updated with new traces, as our research effort evolves.
 
