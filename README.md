@@ -7,7 +7,7 @@ This repository includes a series of PCAP captures generated for cybersecurity r
 
 This repository will be continuously updated with new traces, as our research effort evolves.
 
-**If you use these trace captures for your own research, we ask you to please cite the corresponding article for which they were generated in your own publications**
+**If you use these trace captures for your own research, we ask you to please cite the corresponding article for which they were generated, in your own publications**
 
 ## REFERENCES
 
