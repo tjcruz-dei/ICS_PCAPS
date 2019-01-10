@@ -19,5 +19,5 @@ The content of this repository itself is licensed under the Creative Commons Att
 
 ## CREDITS
 
-These captures were undertaken and provided by a team at the University of Coimbra (Portugal), working under the auspices of the ATENA H2020 project.
+These captures were undertaken and provided by a team from the University of Coimbra (Portugal), working under the auspices of the ATENA H2020 project.
 
