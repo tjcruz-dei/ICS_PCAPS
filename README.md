@@ -43,4 +43,3 @@ These captures were undertaken and provided by a team from the University of Coi
   </dl>
 </article>
 </dl>
-
