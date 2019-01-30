@@ -1,7 +1,3 @@
-<dl>
-<meta name="google-site-verification" content="Qdh2pX8txXPSILHVjVj4IPgfJ1UqtUBw26kNNKg2AKc" />
-</dl>
-      
 # ICS_PCAPS
 ICS Cybersecurity PCAP repository
 
