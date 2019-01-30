@@ -5,7 +5,6 @@
   "name":"ICS Cybersecurity PCAP repository",
   "description":"This repository includes a series of PCAP captures generated for cybersecurity research purposes. Each capture set is provided as a release.",
   "identifier":"10.1007/978-3-030-05849-4_19",
-  "subject":"ICS Cybersecurity",
   "sameAs":"https://github.com/tjcruz-dei/ICS_PCAPS",
   "keywords":[
      "ICS > CYBERSECURITY > MODBUS",
