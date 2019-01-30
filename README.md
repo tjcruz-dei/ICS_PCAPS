@@ -45,5 +45,3 @@ These captures were undertaken and provided by a team from the University of Coi
   </dl>
 </article>
 </dl>
-
-[`sitemap.xml`](https://github.com/tjcruz-dei/ICS_PCAPS/blob/master/sitemap.xml) 
