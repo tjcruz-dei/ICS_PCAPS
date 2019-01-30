@@ -12,20 +12,6 @@
      "ICS > CYBERSECURITY > ATTACKS",
      "ICS > CYBERSECURITY > TRACES",
   ],
-  "creator":{
-     "@type":"Organization",
-     "url": "https://www.cisuc.uc.pt/groups/show/lct",
-     "name":"ICS Cybersecurity PCAP repository from the Univ. of Coimbra CyberSec team",
-     "contactPoint":{
-        "@type":"ContactPoint",
-        "contactType": "Tiago Cruz",
-        "email":"tjcruz@dei.uc.pt"
-     }
-  },
-  "includedInDataCatalog":{
-     "@type":"DataCatalog",
-     "name":"ICS Cybersecurity PCAP repository"
-  },
  "distribution" : {
     "@type" : "DataDownload",
     "encodingFormat" : "PCAP",
