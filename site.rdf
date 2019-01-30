@@ -1,4 +1,4 @@
-      <article about="/node/1234" typeof="dcat:Dataset">
+      <article about="ICS_PCAPS" typeof="dcat:Dataset">
   <dl>
     <dt>Name:</dt>
     <dd> property="dc:title">ICS Cybersecurity PCAP repository</dd>
