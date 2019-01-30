@@ -4,6 +4,8 @@
     <dd property="dc:title">ICS Cybersecurity PCAP repository</dd>
     <dt>Description:</dt>
     <dd property="dc:description">ICS Cybersecurity PCAP repository from the Univ. of Coimbra CyberSec team</dd>
+    <dd property="dc:identifier">10.1007/978-3-030-05849-4_19</dd>
+    <dd property="dc:citation">Frazão, I. and Pedro Henriques Abreu and Tiago Cruz and Araújo, H. and Simões, P. , "Denial of Service Attacks: Detecting the frailties of machine learning algorithms in the Classification Process", in 13th International Conference on Critical Information Infrastructures Security (CRITIS 2018), ed. Springer, Kaunas, Lithuania, September 24-26, 2018, Springer series on Security and Cryptology , 2018. DOI: 10.1007/978-3-030-05849-4_19</dd>    
     <dt>Category:</dt>
     <dd rel="dc:subject">ICS Cybersecurity</dd>
     <dt class="field-label">Downloads:</dt>
