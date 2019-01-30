@@ -3,8 +3,9 @@
   "@context":"https://schema.org/",
   "@type":"Dataset",
   "name":"ICS Cybersecurity PCAP repository",
-  "description":"SThis repository includes a series of PCAP captures generated for cybersecurity research purposes. Each capture set is provided as a release.",
-  "url":"https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231",
+  "description":"This repository includes a series of PCAP captures generated for cybersecurity research purposes. Each capture set is provided as a release.",
+  "identifier":"10.1007/978-3-030-05849-4_19",
+  "subject":"ICS Cybersecurity",
   "sameAs":"https://github.com/tjcruz-dei/ICS_PCAPS",
   "keywords":[
      "ICS > CYBERSECURITY > MODBUS",
@@ -25,15 +26,12 @@
      "@type":"DataCatalog",
      "name":"ICS Cybersecurity PCAP repository"
   },
-  "distribution":[
-     {
-        "@type":"DataDownload",
-        "encodingFormat":"PCAP",
-        "contentUrl":"https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231"
-     },
-  ],
-  "identifier":"10.1007/978-3-030-05849-4_19",
-  "subject":"ICS Cybersecurity",
+ "distribution" : {
+    "@type" : "DataDownload",
+    "encodingFormat" : "PCAP",
+    "contentUrl" : "https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231"
+  },
+  "sourceOrganization" : "ICS Cybersecurity PCAP repository from the Univ. of Coimbra CyberSec team"
   "citation":"Frazão, I. and Pedro Henriques Abreu and Tiago Cruz and Araújo, H. and Simões, P. , Denial of Service Attacks: Detecting the frailties of machine learning algorithms in the Classification Process, in 13th International Conference on Critical Information Infrastructures Security (CRITIS 2018), ed. Springer, Kaunas, Lithuania, September 24-26, 2018, Springer series on Security and Cryptology , 2018. DOI: 10.1007/978-3-030-05849-4_19",
 }
   
