@@ -10,7 +10,7 @@
   "keywords":[
      "ICS > CYBERSECURITY > MODBUS",
      "ICS > CYBERSECURITY > ATTACKS",
-     "ICS > CYBERSECURITY > TRACES",
+     "ICS > CYBERSECURITY > TRACES"
   ],
  "distribution" : {
     "@type" : "DataDownload",
