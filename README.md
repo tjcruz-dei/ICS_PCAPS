@@ -25,7 +25,7 @@ These captures were undertaken and provided by a team from the University of Coi
 <article about="ICS_PCAPS" typeof="dcat:Dataset">
   <dl>
     <dt>Name:</dt>
-    <dd> property="dc:title">ICS Cybersecurity PCAP repository</dd>
+    <dd property="dc:title">ICS Cybersecurity PCAP repository</dd>
     <dt>Description:</dt>
     <dd property="dc:description">ICS Cybersecurity PCAP repository from the Univ. of Coimbra CyberSec team</dd>
     <dt>Category:</dt>
