@@ -21,7 +21,8 @@ The content of this repository itself is licensed under the Creative Commons Att
 
 These captures were undertaken and provided by a team from the University of Coimbra (Portugal), working under the auspices of the ATENA H2020 project.
 
-      <article about="ICS_PCAPS" typeof="dcat:Dataset">
+<dl>      
+<article about="ICS_PCAPS" typeof="dcat:Dataset">
   <dl>
     <dt>Name:</dt>
     <dd> property="dc:title">ICS Cybersecurity PCAP repository</dd>
@@ -39,4 +40,5 @@ These captures were undertaken and provided by a team from the University of Coi
     </dd>
   </dl>
 </article>
+</dl>
 
